@@ -17,7 +17,10 @@ public class Ads3n192_aulagit {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        int m = 22;
+        int m = 30;
+
+        
+
     }
     
 }
